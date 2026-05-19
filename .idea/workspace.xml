@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d0d57e3-24f4-48e9-ae78-77de8b158a31" name="Changes" comment="" />
+    <list default="true" id="1d0d57e3-24f4-48e9-ae78-77de8b158a31" name="Changes" comment="Parte 1 terminado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DaniBGA"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/JulianGonzlz/TPE_Progracion3.git",
@@ -63,9 +69,15 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TPE_Grupo4/src" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1d0d57e3-24f4-48e9-ae78-77de8b158a31" name="Changes" comment="" />
@@ -74,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1778872517831</updated>
       <workItem from="1778872521013" duration="2651000" />
-      <workItem from="1779217197157" duration="337000" />
+      <workItem from="1779217197157" duration="469000" />
     </task>
     <servers />
   </component>
